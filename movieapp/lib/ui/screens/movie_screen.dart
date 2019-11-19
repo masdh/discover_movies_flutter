@@ -1,13 +1,13 @@
 import 'package:flutter/widgets.dart';
 
-class HomeScreen extends StatefulWidget {
-  HomeScreen({Key key}) : super(key: key);
+class MovieScreen extends StatefulWidget {
+  MovieScreen({Key key}) : super(key: key);
 
   @override
-  _HomeScreenState createState() => _HomeScreenState();
+  _MovieScreenState createState() => _MovieScreenState();
 }
 
-class _HomeScreenState extends State<HomeScreen> {
+class _MovieScreenState extends State<MovieScreen> {
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -16,8 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
       //width: MediaQuery.of(context).size.width,
       //height: MediaQuery.of(context).size.height,
       color: const Color(0xFF42A5F5),
-      child: Text('LOOOOL'),
-      alignment: Alignment.center,
+      child: Text('MovieScreen'),
     );
   }
 }

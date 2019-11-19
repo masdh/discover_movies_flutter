@@ -2,7 +2,7 @@
 
 This is another minor mobile application built in Flutter with the purpose to re-learn Flutter and all the widgets it provides 🔥.
 
-This repo is a continuation of understanding app development with Flutter and Dart. This is my weekly goal for **week 45**, where the focus was to add page interactivity to browse between pages.
+This repo is a continuation of understanding app development with Flutter and Dart. This is my weekly goal for **week 45**, where the focus was to add page interactivity to browse between pages. Furthermore, for now Material Design will not be used, and the WidgetsApp will utilised instead.
 
 #### Flutter
 
